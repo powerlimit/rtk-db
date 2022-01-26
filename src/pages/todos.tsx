@@ -4,7 +4,6 @@ import Layout from "components/Layout";
 import ItemModal from "../components/ItemModal";
 import {Todo} from "../types/todo";
 import TodoList from '../components/TotoList'
-import TodoList2 from '../components/TotoList2'
 import {useAddTodosMutation} from "../services/todoAPI";
 
 const Index = () => {
@@ -28,7 +27,7 @@ const Index = () => {
 			<Button variant="primary" onClick={() => setShowModal(true)}>Add Todo</Button>
 			<div className="row">
 				<div className="col-6"><TodoList /></div>
-				<div className="col-6"><TodoList2 /></div>
+				<div className="col-6"><TodoList /></div>
 			</div>
 			<ItemModal
 				show={showModal}
