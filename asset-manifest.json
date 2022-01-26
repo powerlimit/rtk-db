@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rtk-db/static/css/main.cfa58beb.chunk.css",
+    "main.js": "/rtk-db/static/js/main.789ef003.chunk.js",
+    "main.js.map": "/rtk-db/static/js/main.789ef003.chunk.js.map",
+    "runtime-main.js": "/rtk-db/static/js/runtime-main.b34ff9c5.js",
+    "runtime-main.js.map": "/rtk-db/static/js/runtime-main.b34ff9c5.js.map",
+    "static/css/2.55729741.chunk.css": "/rtk-db/static/css/2.55729741.chunk.css",
+    "static/js/2.2ff4bded.chunk.js": "/rtk-db/static/js/2.2ff4bded.chunk.js",
+    "static/js/2.2ff4bded.chunk.js.map": "/rtk-db/static/js/2.2ff4bded.chunk.js.map",
+    "static/js/3.f0e57530.chunk.js": "/rtk-db/static/js/3.f0e57530.chunk.js",
+    "static/js/3.f0e57530.chunk.js.map": "/rtk-db/static/js/3.f0e57530.chunk.js.map",
+    "index.html": "/rtk-db/index.html",
+    "static/css/2.55729741.chunk.css.map": "/rtk-db/static/css/2.55729741.chunk.css.map",
+    "static/css/main.cfa58beb.chunk.css.map": "/rtk-db/static/css/main.cfa58beb.chunk.css.map",
+    "static/js/2.2ff4bded.chunk.js.LICENSE.txt": "/rtk-db/static/js/2.2ff4bded.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b34ff9c5.js",
+    "static/css/2.55729741.chunk.css",
+    "static/js/2.2ff4bded.chunk.js",
+    "static/css/main.cfa58beb.chunk.css",
+    "static/js/main.789ef003.chunk.js"
+  ]
+}
