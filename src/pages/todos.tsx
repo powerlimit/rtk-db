@@ -26,8 +26,8 @@ const Index = () => {
 			{error && <div>Error occurred</div>}
 			<Button variant="primary" onClick={() => setShowModal(true)}>Add Todo</Button>
 			<div className="row">
-				<div className="col-6"><TodoList /></div>
-				<div className="col-6"><TodoList /></div>
+				<div className="col-md-6"><TodoList /></div>
+				<div className="col-md-6"><TodoList /></div>
 			</div>
 			<ItemModal
 				show={showModal}
